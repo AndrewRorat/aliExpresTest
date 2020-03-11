@@ -1,2 +1,2 @@
-"Automation test" 
+"Aliexpress Automation test" 
 By Andrii Rorat
