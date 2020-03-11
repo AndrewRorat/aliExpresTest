@@ -1,0 +1,12 @@
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd" >
+<suite name="Suite2" verbose="1" >
+
+    <parameter name="browser" value="chrome"/>
+    <parameter name="email" value="testnjcki@gmail.com"/>
+    <parameter name="password" value="12345678"/>
+    <test name="Registration test" >
+        <classes>
+            <class name="register.RegistrationPageTest" />
+        </classes>
+    </test>
+</suite>
